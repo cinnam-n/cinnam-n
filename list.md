@@ -1,6 +1,5 @@
 # List
 ### Things I want to do:
-- Finish jCode, then port to VSCode
-- Finish the userproject from 2021
-
-It's short, but it's something
+- Create some sort of type converter console app with an updating screen
+- osu! Discord bot
+- Socials server discord bot
